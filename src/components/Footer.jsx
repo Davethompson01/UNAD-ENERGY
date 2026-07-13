@@ -12,7 +12,7 @@ const Footer = () => {
       <div className="flex flex-col md:flex-row gap-12 text-whiteText">
         <div className="w-full md:w-1/5">
           <Link to="/" onClick={scrollToTop}>
-            <img src="/logo.png" alt="UNAB Logo" width={100} />
+            <img src="/logo.png" alt="UNAB Logo" width={130} />
           </Link>
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 gap-12 flex-grow">

@@ -161,7 +161,7 @@ const Nav = () => {
         <img
           src="/logo.png"
           alt="Logo"
-          width={70}
+          width={120}
           className="hidden mx-auto z-50 md:mx-0 md:block text-whiteText relative"
         />
       </Link>
@@ -228,7 +228,7 @@ const Nav = () => {
               <img
                 src="/logo.png"
                 alt="Logo"
-                width={100}
+                width={200}
                 className="absolute left-1/2 top-[2rem] transform -translate-x-1/2"
               />
             </Link>
