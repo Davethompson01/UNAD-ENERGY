@@ -108,6 +108,7 @@
 import { useState, useRef, useEffect } from "react";
 import { Link, useLocation } from "react-router-dom";
 import { gsap } from "gsap";
+// import logo from "../../public/"
 import "tailwindcss/tailwind.css"; // Assuming you are using Tailwind CSS
 
 const Nav = () => {
